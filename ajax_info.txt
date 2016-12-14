@@ -1,0 +1,1 @@
+<p> A text of ajax-info </p>
